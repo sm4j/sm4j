@@ -5,7 +5,7 @@ Hello! My name is Jordan, and I’m currently pursuing a Bachelor of Science in 
 ## Technical Skills 🤓
 
 **Languages:**  
-C/C++, Python, SQL, SwiftUI, HTML, CSS, JavaScript, PHP
+C/C++, VHDL, Python, SQL, SwiftUI, HTML, CSS, JavaScript, PHP
 
 **Libraries:**  
 Pandas, Sklearn, NumPy
