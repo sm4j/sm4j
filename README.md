@@ -14,12 +14,13 @@ Pandas, Sklearn, NumPy
 Git, AWS, Xcode, Altera Quartus
 
 **Core Competencies:**  
-- Data Structures
-- Algorithms
+- Data Structures and Algorithms
 - Database Management Systems (DBMS)
 - Object-Oriented Programming (OOP)
+- Data Science and Analytics
 - Machine Learning
 - Web Development
+- Computer Architecture and Logic Design
 
 ## About Me 📖
 
