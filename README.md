@@ -25,7 +25,7 @@ Git, AWS, Xcode, Altera Quartus
 
 Technology and problem-solving have always driven my life. With tens of thousands of hours of experience across various domains, I have discovered my passion and developed a diverse set of technical skills. I enjoy playing video games and am fascinated by the continuously advancing technology that makes them possible. Having spent many years in the hospitality industry, I’ve refined my communication skills—both oral and written—and I look forward to leveraging those skills to network with others in the tech community.
 
-## Projects ✏️
+## Projects ✏️ [WIP]
 
 - **Project Name:** [Brief description, technologies used, and link to the repository]
 - **Project Name:** [Brief description, technologies used, and link to the repository]
